@@ -23,7 +23,6 @@ Used the training DataLoader to train your neural network
 Step 4
 
 Evaluated your neural network’s accuracy on the test set.
-
 Tuned your model hyperparameters and network architecture to improve your test set accuracy, achieving at least 90% accuracy on the test set.
 
 Step 5
